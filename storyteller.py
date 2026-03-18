@@ -19,5 +19,5 @@ def main():
             ]
         )
         
-        print("AI: ", response.choices[0].message.content)
+        print("AI Storyteller: ", response.choices[0].message.content)
 if __name__ == "__main__":    main()
