@@ -89,3 +89,6 @@ Make sure your `.gitignore` includes:
 ## 📄 License
 
 MIT — do whatever you want with it.
+
+## Made by:
+[Benjamin Montenegro](https://github.com/BenjaminMontenegro16)
