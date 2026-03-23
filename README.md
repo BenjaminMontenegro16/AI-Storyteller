@@ -90,5 +90,4 @@ Make sure your `.gitignore` includes:
 
 MIT — do whatever you want with it.
 
-## Made by:
-[Benjamin Montenegro](https://github.com/BenjaminMontenegro16)
+*Built by [Benjamin Montenegro](https://github.com/BenjaminMontenegro16)*
